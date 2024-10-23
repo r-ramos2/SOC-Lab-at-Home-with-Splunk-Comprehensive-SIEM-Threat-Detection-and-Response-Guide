@@ -15,7 +15,7 @@ This guide integrates practical exercises and advanced concepts related to Secur
 7. [Configuring Alerts for Threat Detection](#7-configuring-alerts-for-threat-detection)
 8. [Creating Dynamic Dashboards for Incident Response](#8-creating-dynamic-dashboards-for-incident-response)
 9. [Validation and Hands-On Exercises](#9-validation-and-hands-on-exercises)
-10. [Additional Resources](#10-additional-resources)
+10. [Resources](#10-resources)
 
 ---
 
@@ -227,7 +227,7 @@ Create a dashboard panel displaying the top 10 source IP addresses responsible f
 
 ---
 
-## **10. Additional Resources**
+## **10. Resources**
 - [Splunk Documentation](https://docs.splunk.com/Documentation/Splunk)
 - [Splunk Security Essentials](https://splunkbase.splunk.com/app/3435/)
 - [BOTS v3 Dataset](https://github.com/splunk/botsv3)
