@@ -15,7 +15,8 @@ This guide integrates practical exercises and advanced concepts related to Secur
 7. [Configuring Alerts for Threat Detection](#7-configuring-alerts-for-threat-detection)
 8. [Creating Dynamic Dashboards for Incident Response](#8-creating-dynamic-dashboards-for-incident-response)
 9. [Validation and Hands-On Exercises](#9-validation-and-hands-on-exercises)
-10. [Resources](#10-resources)
+10. [Conclusion](#conclusion)
+11. [Resources](#resources)
 
 ---
 
@@ -227,13 +228,14 @@ Create a dashboard panel displaying the top 10 source IP addresses responsible f
 
 ---
 
-## **10. Resources**
+### **Conclusion**
+
+This guide provides a comprehensive framework for setting up a SOC lab at home using Splunk as a SIEM tool. It covers essential topics including installation, data ingestion, real-time monitoring, optimized search processing, and advanced threat detection techniques. By engaging with practical exercises and real-world scenarios, individuals can enhance their skills in cybersecurity and incident response, ultimately fostering a deeper understanding of SOC operations.
+
+---
+
+## **Resources**
 - [Splunk Documentation](https://docs.splunk.com/Documentation/Splunk)
 - [Splunk Security Essentials](https://splunkbase.splunk.com/app/3435/)
 - [BOTS v3 Dataset](https://github.com/splunk/botsv3)
 
----
-
-### **Conclusion**
-
-This guide provides a comprehensive framework for setting up a SOC lab at home using Splunk as a SIEM tool. It covers essential topics including installation, data ingestion, real-time monitoring, optimized search processing, and advanced threat detection techniques. By engaging with practical exercises and real-world scenarios, individuals can enhance their skills in cybersecurity and incident response, ultimately fostering a deeper understanding of SOC operations.
